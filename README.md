@@ -1,5 +1,5 @@
 
-<a href="https://komarev.com/ghpvc/?username=mehmedx7">
+<a href="#">
   <img align="right" src="https://komarev.com/ghpvc/?username=mehmedx7&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -39,5 +39,5 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedx7&layout=compact&theme=tokyonight" alt="Mohammed's top language stats" />
 </p>
 
-<a href="https://github.com/mehmedx7"><img  height="270" width="1050" alt="Mohammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmedx7&bg_color=0d1117&color=dde9e5&line=52d4ff&point=ff006f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+<a href="https://github.com/mehmedx7"><img  height="270" width="1050" alt="Mohammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmedx7&bg_color=0d1117&color=dde9e5&line=52d4ff&point=ff006f&area=true&hide_border=true"/></a>
 

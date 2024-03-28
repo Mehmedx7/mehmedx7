@@ -23,6 +23,9 @@
   <a href="mailto:mehmedkhan16@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="mailto:mehmedkhan16@gmail.com">
+    <img src="https://assets-global.website-files.com/61f9082050036c6c4b4899f8/6512ee30cf9420cedd8101c4_UX%20portfolio%20websites-main.svg" />
+  </a>
 </p>
 
 ## Github Stats:

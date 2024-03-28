@@ -7,7 +7,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="#">Mohammed Khan</a></b>
+                <b><a target="_blank" href="https://mohammedkhan.netlify.app/">Mohammed Khan</a></b>
         </samp>
 </h3>
 

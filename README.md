@@ -13,7 +13,7 @@
 
 
 <p align="center">
-    Full Stack Developer
+    Software Engineer 
 </p>
 
 <p align="center">

@@ -12,13 +12,13 @@
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mehmedx7">
+  <a target="_blank" href="https://www.linkedin.com/in/mehmedx7">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
   </a>
-  <a href="mailto:mehmedkhan16@gmail.com">
+  <a target="_blank" href="mailto:mehmedkhan16@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
   </a>
-  <a href="https://mohammedkhan.netlify.app">
+  <a target="_blank" href="https://mohammedkhan.netlify.app">
     <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="50"/>
   </a>
 </p>

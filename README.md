@@ -11,11 +11,6 @@
         </samp>
 </h3>
 
-
-<p align="center">
-    Software Engineer 
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmedx7">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>

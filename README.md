@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://mohammedkhan.netlify.app">
-    <img src="https://raw.githubusercontent.com/Mehmedx7/React-store/main/portfolioicon.png" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" width="50"/>
   </a>
 </p>
 

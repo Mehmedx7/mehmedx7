@@ -24,7 +24,7 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://mohammedkhan.netlify.app">
-    <img src="https://img.icons8.com/?size=100&id=111593&format=png&color=000000" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="50"/>
   </a>
 </p>
 

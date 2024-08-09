@@ -7,18 +7,18 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://mohammedkhan.netlify.app/">Mohammed Khan</a></b>
+                <b><a href="https://mohammedkhan.netlify.app/" target="_blank">Mohammed Khan</a></b>
         </samp>
 </h3>
 
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mehmedx7">
+  <a href="https://www.linkedin.com/in/mehmedx7" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
   </a>
-  <a target="_blank" href="mailto:mehmedkhan16@gmail.com">
+  <a href="mailto:mehmedkhan16@gmail.com" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
   </a>
-  <a target="_blank" href="https://mohammedkhan.netlify.app">
+  <a href="https://mohammedkhan.netlify.app" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="50"/>
   </a>
 </p>

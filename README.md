@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmedx7">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
   </a>
   <a href="mailto:mehmedkhan16@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>

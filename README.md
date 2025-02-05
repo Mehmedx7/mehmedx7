@@ -1,38 +1,79 @@
-
 <a href="#">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mehmedx7&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=mehmedx7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
 
+<!-- Intro -->
+<h1 align="center">
+  <samp>&gt; Hey There! I'm
+    <b><a href="https://mohammedkhan.netlify.app/" target="_blank">Mohammed Khan</a></b> 👋
+  </samp>
+</h1>
 
-<!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a href="https://mohammedkhan.netlify.app/" target="_blank">Mohammed Khan</a></b>
-        </samp>
+  <samp>
+    A passionate <b>Full-Stack Developer</b> from <b>India</b> 🇮🇳 <br>
+    Building innovative solutions and exploring new technologies 🚀
+  </samp>
 </h3>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mehmedx7" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mehmedkhan16@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://mohammedkhan.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=naDnVpQ3BNkR&format=png&color=000000" width="50"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/mehmedx7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
-## Github Stats:
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
   <a href="#">
-    <img height = "160" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmedx7&theme=radical&border=7F3FBF&background=0D1117" alt="Mohammed's GitHub streak"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=mehmedx7&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="Mohammed's GitHub stats" />
+  </a>
+  <a href="#">
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=mehmedx7&theme=radical&hide_border=true" alt="Mohammed's GitHub streak" />
   </a>
 </p>
+
 <p align="center">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=mehmedx7&count_private=true&include_all_commits=true&theme=tokyonight" alt="Mohammed's stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedx7&layout=compact&theme=tokyonight" alt="Mohammed's top language stats" />
+  <a href="#">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedx7&layout=compact&theme=radical&hide_border=true" alt="Mohammed's top languages" />
+  </a>
 </p>
 
-<a href="https://github.com/mehmedx7"><img  height="270" width="1050" alt="Mohammed's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmedx7&bg_color=0d1117&color=dde9e5&line=52d4ff&point=ff006f&area=true&hide_border=true"/></a>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mehmedx7&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<h2 align="center">🚀 Contribution Graph</h2>
+
+<p align="center">
+  <a href="https://github.com/mehmedx7">
+    <img height="270" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehmedx7&bg_color=0d1117&color=52d4ff&line=ff006f&point=ffffff&area=true&hide_border=true" alt="Mohammed's Activity Graph" />
+  </a>
+</p>
+
+
+<!-- Footer -->
+<h2 align="center">🌟 Let's Connect!</h2>
+
+<p align="center">
+  <samp>
+    Thanks for visiting my profile! Feel free to reach out for collaborations, projects, or just to say hi! 😄
+  </samp>
+</p>

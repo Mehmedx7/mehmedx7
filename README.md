@@ -47,15 +47,6 @@
   </a>
 </p>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mehmedx7&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
-
 <!-- Activity Graph -->
 <h2 align="center">🚀 Contribution Graph</h2>
 

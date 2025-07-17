@@ -5,7 +5,7 @@
 <!-- Intro -->
 <h1 align="center">
   <samp>&gt; Hey There! I'm
-    <b><a href="https://mehmedx7.vercel.app/" target="_blank">Mohammed Khan</a></b> 👋
+    <b><a href="https://mehmedx7.com" target="_blank">Mohammed Khan</a></b> 👋
   </samp>
 </h1>
 
@@ -24,7 +24,7 @@
   <a href="mailto:mehmedkhan16@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://mehmedx7.vercel.app/" target="_blank">
+  <a href="https://mehmedx7.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>

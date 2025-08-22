@@ -7,9 +7,11 @@
 
 Designing dependable, scalable systems with clarity and long‑term impact.
 
-- CSMS architect with deep expertise in OCPP 1.6 / 2.0.1 / 2.1
-- Partnered with 15+ startups globally; trusted consultant with strong referrals
+- CSMS architect with deep expertise in OCPP 1.6 / 2.0.1 / 2.1  
+- Partnered with 15+ startups globally; trusted consultant with strong referrals  
 - Focused on reliability, security, and operational excellence
+
+Public repos here are mostly lightweight experiments and hobbies. The real work—the production systems and IP—lives in private repositories.
 
 - Website: [mehmedx7.com](https://mehmedx7.com)
 - LinkedIn: [linkedin.com/in/mehmedx7](https://linkedin.com/in/mehmedx7)

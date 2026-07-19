@@ -3,12 +3,12 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=mehmedx7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </a>
 
-<a href="https://github.com/mehmedx7">
+<!-- <a href="https://github.com/mehmedx7">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mehmedx7/mehmedx7/main/dark_mode.svg">
     <img alt="Mohammed Khan" src="https://raw.githubusercontent.com/mehmedx7/mehmedx7/main/light_mode.svg" width="380">
   </picture>
-</a>
+</a> -->
 
 # Mohammed Khan
 
